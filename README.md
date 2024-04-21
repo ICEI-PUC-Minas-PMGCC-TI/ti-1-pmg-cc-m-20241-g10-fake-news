@@ -1,4 +1,4 @@
-# Secure Link
+# Secure News
 
 Nossa pesquisa visa enfrentar o desafio crescente representado pelo aumento da divulgação de fake news nas mídias sociais e tazer uma solução tecnologia. O objetivo é compreender as motivações por trás da criação e disseminação dessas notícias falsas, bem como o impacto prejudicial sobre pessoas menos instruídas, crianças e idosos.
 

@@ -1,18 +1,19 @@
-# Nome do projeto
+# Secure Link
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Nossa pesquisa visa enfrentar o desafio crescente representado pelo aumento da divulgação de fake news nas mídias sociais e tazer uma solução tecnologia. O objetivo é compreender as motivações por trás da criação e disseminação dessas notícias falsas, bem como o impacto prejudicial sobre pessoas menos instruídas, crianças e idosos.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Rafael Kaiky Soares Batista
+* Guilherme Rangel Becattini
+* Igor Moreira Raminho de Sá
+* Pedro Henrique Menezes Belém
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Carneiro
+* João Carlos Caetano
+* Luciana Mara
 
 ## Instruções de utilização
 

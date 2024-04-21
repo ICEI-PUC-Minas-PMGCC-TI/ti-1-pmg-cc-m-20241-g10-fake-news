@@ -1,6 +1,13 @@
 # Secure News
 
-Nossa pesquisa visa enfrentar o desafio crescente representado pelo aumento da divulgação de fake news nas mídias sociais e trazer uma solução tecnologia. O objetivo é compreender as motivações por trás da criação e disseminação dessas notícias falsas, bem como o impacto prejudicial sobre pessoas menos instruídas, crianças e idosos.
+Devido ao crescimento da divulgação de fake News nas mídias sociais, e o retrocesso 
+trazido por elas, decidimos desenvolver um sistema de avalição de notícias. Com o 
+objetivo de mitigar o impacto das fake News na vida dos indivíduos e da sociedade de 
+modo geral. 
+Para isso, intencionamos desenvolver um software que fara a checagem das informações 
+veiculadas por meio das plataformas digitais. Através do link da notícia esse software 
+usara outras notícias como fonte de informação segura para avaliar a veracidade das 
+informações veiculadas. 
 
 ## Alunos integrantes da equipe
 

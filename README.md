@@ -21,6 +21,7 @@ informações veiculadas.
 * Rommel Carneiro
 * João Carlos Caetano
 * Luciana Mara
+* Pedro Henrique Ramos Costa
 
 ## Instruções de utilização
 

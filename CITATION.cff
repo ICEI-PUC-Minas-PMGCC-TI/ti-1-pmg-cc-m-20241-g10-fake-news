@@ -3,18 +3,12 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Rangel Becattini
+    given-names: Guilherme
+  - family-names: Kaiky Soares Batista
+    given-names:Rafael
+- family-names: Moreira Raminho de Sá
+    given-names: Igor
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: 
@@ -31,30 +25,6 @@ license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
 =======
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
 keywords:
   - 
   - 

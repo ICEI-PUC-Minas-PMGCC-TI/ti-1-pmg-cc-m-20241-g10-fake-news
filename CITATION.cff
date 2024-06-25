@@ -11,15 +11,23 @@ authors:
     given-names: Igor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
+    family-names: Carneiro
+    given-names: Rommel
+- name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Costa
+    given-names: Pedro
+ - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Diniz
+    given-names: Luciana
+ - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Caetano
+    given-names: João
 keywords:
-  - 
-  - 
+  - Fake News
+  
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0

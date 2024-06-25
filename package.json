@@ -1,1 +1,20 @@
 
+{
+  "name": "Fake News",
+  "version": "1.0.0",
+  "description": "Projeto TIAW",
+  "main": "index.html",
+  "scripts": {
+      "start": "node ./public/codigo/server.js"
+  },
+  "keywords": [],
+  "author": "Grupo 10 - Fake News",
+  "license": "ISC",
+  "dependencies": {
+      "express": "^4.19.2",
+      "json-server": "^0.17.3"
+  }
+}
+
+
+

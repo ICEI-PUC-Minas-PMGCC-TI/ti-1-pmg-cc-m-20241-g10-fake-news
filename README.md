@@ -14,7 +14,6 @@ informações veiculadas.
 * Rafael Kaiky Soares Batista
 * Guilherme Rangel Becattini
 * Igor Moreira Raminho de Sá
-* Pedro Henrique Menezes Belém
 
 ## Professores responsáveis
 
